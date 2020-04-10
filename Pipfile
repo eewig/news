@@ -9,6 +9,7 @@ verify_ssl = true
 django = "==2.2"
 django-crispy-forms = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.6"

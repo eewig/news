@@ -10,5 +10,6 @@ To create this I used
 - django-crispy-forms
 - Gunicorn
 - WhiteNoise
+- Boostrap4
 - HTML5
 - CSS3
